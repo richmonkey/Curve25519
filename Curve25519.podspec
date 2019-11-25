@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = '25519'
+  spec.name         = 'Curve25519'
   spec.version      = '2.0.2'
   spec.license      = { :type => 'GPLv3' }
   spec.homepage     = 'https://github.com/FredericJacobs/25519'
